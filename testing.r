@@ -1,9 +1,11 @@
 # This is a first line for my R course
-Print ("Helo R from Git Hub")
 print ("Helo R from Git Hub")
 
-namesd = "zeeshankhar"
+name = "zeeshan khar"
 Version = "Rstudio - in writing"
 
-print (namesd)
+print (name)
 print("these lines are written in teh RStudio")
+
+
+print (Version)

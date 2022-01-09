@@ -9,3 +9,10 @@ print("these lines are written in teh RStudio")
 
 
 print (Version)
+
+a=12
+b=15
+
+sum = a+b
+print (sum)
+
